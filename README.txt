@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 commit 1 master
+commit 2 master
