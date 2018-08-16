@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 commit 1 rebase
+commit 2 rebase
