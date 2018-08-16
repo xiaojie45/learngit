@@ -5,3 +5,4 @@ Git tracks changes.
 
 commit 1 master
 commit 2 master
+commit 3 master
